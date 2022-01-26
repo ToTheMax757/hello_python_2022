@@ -1,2 +1,3 @@
-# hello_python_2022
-Hello world program in python
+# Hello Python 2022
+
+Created as an intro demo
